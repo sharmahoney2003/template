@@ -5,6 +5,9 @@
 	background: #F4F4F4 !important;
 	color:#444444;
 }
+.google-visualization-table-tr{
+	background: #4CAF50 !important;
+}
 
 /* selected/hovered row in a TABLE view */
 .google-visualization-table-tr-sel td,
@@ -76,7 +79,6 @@
 	width:100%;
 	text-align:right;
 	font-size:12pt!important;
-	background-color: #4CAF50!important;
 }
 /* selected/hovered row in a TABLE view */
 .google-visualization-table-tr-sel td,
