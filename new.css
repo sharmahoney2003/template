@@ -61,3 +61,28 @@
 .google-visualization-controls-rangefilter-thumblabel {
 	color:#444444!important;
 }
+/* Resize the Sidebar */
+
+#sidebar{
+	width:80%!important;
+	margin-left:0px!important;
+}
+#parentChart1{
+	width:20%!important;
+}
+/* Modify text font-size and alignment */
+.google-visualization-table-table {
+	width:100%;
+	text-align:right;
+	font-size:12pt!important;
+}
+/* selected/hovered row in a TABLE view */
+.google-visualization-table-tr-sel td,
+.google-visualization-table-tr-over td {
+	background-color: #FFFFCC!important;
+}
+/* Center All Filters */
+
+#controlersPanel {
+	text-align: center;
+}
