@@ -1,8 +1,4 @@
-/* Apply the new font */
-body, td, div, span, p {
-  font-family: "titling-gothic-condensed"!important;
-  color: "yellow"!important;
-}
+
 /* Table view header */
 .google-visualization-table-table .gradient,
 .google-visualization-table-div-page .gradient {
@@ -80,6 +76,7 @@ body, td, div, span, p {
 	width:100%;
 	text-align:right;
 	font-size:12pt!important;
+	background-color: #4CAF50!important;
 }
 /* selected/hovered row in a TABLE view */
 .google-visualization-table-tr-sel td,
@@ -92,14 +89,6 @@ body, td, div, span, p {
 	text-align: center;
 }
 
-/* Load your font here, these line can be found on http://www.google.com/fonts for example */
-/* DON'T FORGET TO CHANGE HTTP to HTTPS */
-@font-face{
-  font-family: "Indie Flower";
-  font-style: normal;
-  font-weight: 400;
-  src: local('Indie Flower'), local('IndieFlower'), url(https://fonts.gstatic.com/s/indieflower/v7/10JVD_humAd5zP2yrFqw6ugdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
+
 
 
