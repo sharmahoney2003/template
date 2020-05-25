@@ -100,4 +100,5 @@
 /* Apply the new font */
 body, td, div, span, p {
   font-family: "titling-gothic-condensed"!important;
+  color: "yellow"!important;
 }
